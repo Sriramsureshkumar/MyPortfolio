@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Sriramsureshkumar/MyPortfolio/issues"
   },
-  "homepage": "https://github.com/Sriramsureshkumar/MyPortfolio#readme"
+  "homepage": "https://github.com/Sriramsureshkumar/MyPortfolio#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
